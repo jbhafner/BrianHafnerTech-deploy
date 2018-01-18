@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 13.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 14948)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="240px" height="216px" viewBox="0 0 240 216" enable-background="new 0 0 240 216" xml:space="preserve">
+<g id="Layer_23">
+	<g>
+		<g>
+			<polygon fill="#FFFFFF" points="152,212 88,212 96,172 140,172 			"/>
+			<path fill="#FFFFFF" d="M236,16c0-6.629-5.375-12-12-12H16C9.375,4,4,9.371,4,16v144c0,6.629,5.375,12,12,12h208
+				c6.625,0,12-5.371,12-12V16z"/>
+			<path fill="none" stroke="#657889" stroke-width="8" stroke-miterlimit="10" d="M236,16c0-6.629-5.375-12-12-12H16
+				C9.375,4,4,9.371,4,16v144c0,6.629,5.375,12,12,12h208c6.625,0,12-5.371,12-12V16z"/>
+			<line fill="none" stroke="#657889" stroke-width="8" stroke-miterlimit="10" x1="140" y1="172" x2="152" y2="212"/>
+			<line fill="none" stroke="#657889" stroke-width="8" stroke-miterlimit="10" x1="88" y1="212" x2="96" y2="172"/>
+			<line fill="none" stroke="#657889" stroke-width="8" stroke-miterlimit="10" x1="68" y1="212" x2="172" y2="212"/>
+			<line fill="none" stroke="#657889" stroke-width="8" stroke-miterlimit="10" x1="4" y1="140" x2="236" y2="140"/>
+			<line fill="none" stroke="#657889" stroke-width="8" stroke-miterlimit="10" x1="116" y1="156" x2="124" y2="156"/>
+			<rect x="16" y="16" fill="#67DDE0" width="208" height="112"/>
+			<rect x="24" y="24" fill="#ACF0F2" width="192" height="96"/>
+			<g>
+				<g>
+					<g>
+						<path fill="none" stroke="#657889" stroke-width="8" stroke-miterlimit="10" d="M68,104V56c0-6.625,5.375-12,12-12h4
+							c6.625,0,12,5.375,12,12v48"/>
+					</g>
+					<line fill="none" stroke="#657889" stroke-width="8" stroke-miterlimit="10" x1="68" y1="80" x2="96" y2="80"/>
+				</g>
+				<g>
+					<path fill="none" stroke="#657889" stroke-width="8" stroke-miterlimit="10" d="M112,68V56c0-6.625,5.375-12,12-12h4
+						c6.625,0,12,5.375,12,12v12c0,6.625-5.375,12-12,12h-16"/>
+					<line fill="none" stroke="#657889" stroke-width="8" stroke-miterlimit="10" x1="112" y1="68" x2="112" y2="104"/>
+				</g>
+				<line fill="none" stroke="#657889" stroke-width="8" stroke-miterlimit="10" x1="164" y1="44" x2="164" y2="100"/>
+				<line fill="none" stroke="#657889" stroke-width="8" stroke-miterlimit="10" x1="152" y1="44" x2="176" y2="44"/>
+				<line fill="none" stroke="#657889" stroke-width="8" stroke-miterlimit="10" x1="152" y1="100" x2="176" y2="100"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="Layer_1_1_">
+</g>
+</svg>
