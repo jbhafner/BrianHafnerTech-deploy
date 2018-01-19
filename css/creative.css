@@ -244,3 +244,8 @@ header.masthead {
   border-style: solid;
   border-color: black;
 }
+
+.photoStyle {
+  background-repeat: no-repeat;
+  background-position: center center;
+}
